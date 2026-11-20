@@ -1,14 +1,18 @@
-# Welcome to your Lovable project
+# Dew Routine Discovery
+
+Create the skincare e-commerce project with Lovable Cloud, starting with the product catalog and pastel storefront, following the attached specification: modern, premium aesthetic with soft pastel colors, realistic skincare products with pricing in Indian Rupees (₹), skin type and concern filters and recommendations, cart, wishlist, authentication, and user and admin dashboards.
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://dew-routine-discovery.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/f6cf1252-b911-49e5-8cf0-86b6a9ae43ac).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +24,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
