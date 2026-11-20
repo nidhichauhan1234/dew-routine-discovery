@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795176007287,
+      "tag": "0000_dew_drop_store_schema",
+      "breakpoints": true
+    }
+  ]
+}
